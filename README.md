@@ -3,6 +3,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
+
+
 <div align="center"> 
   <h2 align="center"> 👨🏻‍💻 &nbsp;Visitors </h2>
   <img alibn="center" src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
