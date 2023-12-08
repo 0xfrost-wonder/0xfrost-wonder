@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img alibn="center" src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
 <div align="center"> 
