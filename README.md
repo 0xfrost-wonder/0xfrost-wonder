@@ -1,9 +1,4 @@
 <h1>ICEBLAST</h1>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
-
-
 <div align="center"> 
   <h2 align="center"> 👨🏻‍💻 &nbsp;Visitors </h2>
   <img alibn="center" src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
@@ -101,7 +96,4 @@ Fields_of_interests:
 <img align="center" alt="Intel's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=COOLICEBLAST&hide_border=true&theme=dark" />
 
 ---
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
