@@ -1,14 +1,4 @@
 <h1>ICEBLAST</h1>
-<div align="center"> 
-  <h2 align="center"> 👨🏻‍💻 &nbsp;Visitors </h2>
-  <img alibn="center" src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</div>
-
-
-<p align="center">
-  <img src= "https://cutewallpaper.org/27/binary-code-wallpaper-gif/binary-code-gifs-get-the-best-gif-on-giphy.gif" width="100%">
-</p>
-
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
