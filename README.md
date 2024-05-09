@@ -83,7 +83,7 @@ Fields_of_interests:
 --- 
 
 <img align="center" alt="oxFrost's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oxFrost&show_icons=true&hide_border=true&theme=dark" />
-<img align="center" alt="Intel's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=COOLICEBLAST&hide_border=true&theme=dark" />
+<img align="center" alt="oxFrost's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=oxFrost&hide_border=true&theme=dark" />
 
 ---
 
