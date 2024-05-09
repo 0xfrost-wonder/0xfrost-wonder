@@ -1,4 +1,4 @@
-<h1>ICEBLAST</h1>
+<h1>SURPRISE</h1>
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -82,7 +82,7 @@ Fields_of_interests:
 
 --- 
 
-<img align="center" alt="Intel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=COOLICEBLAST&show_icons=true&hide_border=true&theme=dark" />
+<img align="center" alt="oxFrost's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oxFrost&show_icons=true&hide_border=true&theme=dark" />
 <img align="center" alt="Intel's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=COOLICEBLAST&hide_border=true&theme=dark" />
 
 ---
