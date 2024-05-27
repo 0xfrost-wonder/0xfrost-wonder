@@ -19,67 +19,44 @@ Fields_of_interests:
   
 ---  
   
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p>
-<div style="width: 100%; display: flex; justify-content: space-between; flex-wrap: wrap">
-  <div>
-    <h2>Front-end</h2>
-    <div>
-    | React | Angular | Vue | HTML5 | CSS | Next.js | TailwindCSS | Bootstrap | Material UI |
-    |----------|----------|----------|----------|----------|----------|----------|----------|----------|
-     | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="45" height="45" />  |
-     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="45" height="45" /> |
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vue/vue-original.svg" alt="VueJS" width="45" height="45"/> |
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="45" height="45"/> |
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45" /> |
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45" /> |
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="135" height="45" /> |
-      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45" /> |
-      <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="material UI" width="45" height="45" /> |
-    </div>
-  </div>
-  <div>
-    <h2>Back-end</h2>
-    <div>
-      <img src="https://th.bing.com/th/id/R.7bf6c1c87a15fce448f99c760e400cc6?rik=ttP4YqK9vA24Zw&riu=http%3a%2f%2fwww.icone-png.com%2fpng%2f47%2f46584.png&ehk=X9Ur19HJaGdcx1KRz5UF4tj9cGBG%2f7i4CziyyGiWvT0%3d&risl=&pid=ImgRaw&r=0" alt="apsnet" width="45" height="25"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="45" height="45" />
-      <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="nestjs" width="70" height="45"/>
-      <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo-e1588009010920.png" alt="javascript" width="45" height="45" />
-    </div>
-  </div>
-  <div>
-    <h2>Language</h2>
-    <div>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="45" height="45"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="csharp" width="45" height="45"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-      <img src="https://www.logosvgpng.com/wp-content/uploads/2018/10/solidity-logo-vector.png" alt="solidity" width="70" height="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="45" height="45"/>
-      <img src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="45" />
-      <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" />
-    </div>
-  </div>
-  <div>
-    <h2>DBMS</h2>
-    <div>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-      <img src="https://www.computerhope.com/jargon/p/postgresql.jpg" alt="postgresql" width="45" height="45" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
-      <img src="https://user-images.githubusercontent.com/54184905/102911788-9709a000-448d-11eb-9161-bac188f78110.png" alt="dynamodb" width="80" height="45" />
-    </div>
-  </div>
-  <div>
-    <h2>Software Tools & Services</h2>
-    <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-    </div>
-  </div>
-</div>
-</p>
+## Languages and Tools
+
+<div>
+
+### Frontend:
+| React | Angular | Vue | HTML5 | CSS | Nextjs | TailwindCSS | BootStrap | Material UI |
+|----------|----------|-------|----------|-------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/vue/vue-original.svg" title="Vue" alt="Vue" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original.svg" title="CSS" alt="CSS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NEXT" alt="NEXT" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BootStrap" alt="BootStrap" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="55" height="55"/> |
+
+  
+
+### Backend:
+
+| Node | Nest | Django | ASP.net | Laravel |
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/node/node-original.svg" title="Node"  alt="Node" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nest/nest-original.svg" title="Nest"  alt="Nest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original-wordmark.svg" title="Django" alt="Django" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="ASP.net" alt="ASP.net" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="55" height="55"/>|
+
+
+
+### My tools for Data Manipulation:
+
+| MySQL | Postgres | SQLite | MongoDB |
+|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|
+
+  
+### Environments, Testing, Other:
+
+| Nodejs | Git | Docker | Postman | Virtual Box | HardHat |
+|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="80" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|
+
+
+### Languages
+| Typescript | Python | Solidity | Go | Rust | Javascript | C# | R | PHP | Java |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original-wordmark.svg" title="Typescript" alt="Typescript" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>|
+
 
 &emsp;...
 
@@ -111,5 +88,5 @@ Fields_of_interests:
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-
+</div>
 
