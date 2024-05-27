@@ -1,4 +1,7 @@
 <h1>SURPRISE</h1>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=oxFrost&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -80,10 +83,33 @@ Fields_of_interests:
 
 &emsp;...
 
---- 
+---
 
-<img align="center" alt="oxFrost's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oxFrost&show_icons=true&hide_border=true&theme=dark" />
-<img align="center" alt="oxFrost's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=oxFrost&hide_border=true&theme=dark" />
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=oxFrost&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
 
 ---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=oxFrost&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxFrost&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=oxFrost&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+
 
