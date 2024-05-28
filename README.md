@@ -6,21 +6,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oxFrost&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-
-```
-Role: Full Stack Developer
-Fields_of_interests:
-  [
-    "Frontend Development",
-    "Backend Development",
-    "Blockchain",
-    "DevOps"
-  ]
-```
-  
 ---  
   
 ## Languages and Tools
