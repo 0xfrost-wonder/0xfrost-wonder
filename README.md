@@ -1,4 +1,8 @@
-<h1>SURPRISE</h1>
+# Hi there, I'm SUPRISE who makes wonder 👋 
+
+<h3>I am a</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Fullstack+Developer;Blockchain+Developer)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=oxFrost&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
