@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&lines=Fullstack+Developer;Blockchain+Developer)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=oxFrost&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=0xFrost-wonder&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---  
   
@@ -53,7 +53,7 @@
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=oxFrost&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=0xFrost-wonder&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
@@ -63,13 +63,13 @@
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=oxFrost&show_icons=true&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=0xFrost-wonder&show_icons=true&theme=vision-friendly-dark">
 </p>
  
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=oxFrost&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=0xFrost-wonder&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
